@@ -1,0 +1,26 @@
+footer {
+  background-color: #333;
+  color: white;
+  height: 6rem;
+}
+
+.about {
+  background-color: #d6e7f7;
+}
+
+.about li {
+  background-color: #d6e7f7;
+}
+
+.menu-category li, .contact li {
+  list-style: none;
+}
+
+.contact-us h1 {
+  font-size: 3rem;
+}
+
+.contact-form h2 {
+  font-size: 1.2rem;
+}
+/*# sourceMappingURL=style.css.map */
